@@ -19,3 +19,15 @@ The Credit Card Validator is a web application designed to validate credit card 
 - Go (version 1.14 or later recommended)
 - Git (for cloning the repository)
 
+### Installation
+
+1. **Clone the repository:**
+   git clone https://github.com/yourusername/credit-card-validator.git
+   cd credit-card-validator
+2. Navigate to the backend directory and run the server:
+   cd backend
+   go run main.go
+3. Access the application: Open your web browser and visit http://localhost:8080 to use the application.
+
+Usage
+Enter a credit card number into the input field on the web page and click the "Validate" button. The application will display whether the credit card number is valid or invalid according to the Luhn algorithm.
