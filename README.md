@@ -37,7 +37,7 @@ Enter a credit card number into the input field on the web page and click the "V
 ## Screenshots
 
 ### Valid Credit Card Number
-![Valid Credit Card Number](images/valid_credit_card.png)
+![Valid Credit Card Number](images/Valid_Credit_Card.png)
 
 ### Invalid Credit Card Number
 ![Invalid Credit Card Number](images/Invalid_Credit_Card.png)
