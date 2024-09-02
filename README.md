@@ -30,5 +30,14 @@ The Credit Card Validator is a web application designed to validate credit card 
    go run main.go
 4. Access the application: Open your web browser and visit http://localhost:8080 to use the application.
 
-Usage
+### Usage
+
 Enter a credit card number into the input field on the web page and click the "Validate" button. The application will display whether the credit card number is valid or invalid according to the Luhn algorithm.
+
+## Screenshots
+
+### Valid Credit Card Number
+![Valid Credit Card Number](images/valid_credit_card.png)
+
+### Invalid Credit Card Number
+![Invalid Credit Card Number](images/Invalid_Credit_Card.png)
