@@ -26,6 +26,7 @@ The Credit Card Validator is a web application designed to validate credit card 
    git clone https://github.com/yourusername/credit-card-validator.git
    cd credit-card-validator
 2. Navigate to the backend directory and run the server:
+   ```bash
    cd backend
    go run main.go
 3. Access the application: Open your web browser and visit http://localhost:8080 to use the application.
